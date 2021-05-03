@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Total Portal Keys on Startup
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Smooklu/total-portal-keys-on-startup
 // @version      0.1
 // @description  Displays total portal keys on startup.
 // @author       Smooklu
