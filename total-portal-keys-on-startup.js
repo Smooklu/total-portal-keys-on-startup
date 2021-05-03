@@ -20,7 +20,7 @@
             window.totalkeyamount = window.totalkeyamount + parseInt(keyamount)
         }
         pkeys.forEach(getKeyAmount)
-        alert(window.totalkeyamount)
+        alert('Total Portal Keys: ' + window.totalkeyamount)
 }, 5000);
 
 })();
